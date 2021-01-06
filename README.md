@@ -14,14 +14,6 @@ English version repo and Gitbook is on [english branch](https://github.com/labul
 <a href="https://space.bilibili.com/14089380" target="_blank"><img src="https://img.shields.io/badge/B站-@labuladong-000000.svg?style=flat-square&logo=Bilibili"></a>
 </p>
 
-![](pictures/souyisou.png)
-
-好消息，《labuladong 的算法小抄》纸质书出版啦！关注公众号查看详情👆
-
-<p align='center'>
-<img src="https://gitee.com/labuladong/pictures/raw/master/starHistory.png" width = "600" />
-</p>
-
 
 本仓库总共 60 多篇原创文章，都是基于 LeetCode 的题目，涵盖了所有题型和技巧，而且一定要做到**举一反三，通俗易懂**，绝不是简单的代码堆砌，后面有目录。
 
