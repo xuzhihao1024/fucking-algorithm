@@ -35,7 +35,7 @@ GitHub Pages 地址：https://labuladong.github.io/algo
 
 Gitee Pages 地址：https://labuladong.gitee.io/algo
 
-2、建议关注我的公众号 labuladong，坚持高质量原创，说是最良心最硬核的技术公众号都不为过**。本仓库的文章就是从公众号里整理出来的**一部分**内容，公众号可以查看更多内容；公众号后台回复关键词【加群】可以加入我们的刷题群，和大家一起讨论算法问题，分享内推机会：
+2、建议关注我的公众号 labuladong，坚持高质量原创。本仓库的文章就是从公众号里整理出来的**一部分**内容，公众号可以查看更多内容；公众号后台回复关键词【加群】可以加入我们的刷题群，和大家一起讨论算法问题，分享内推机会：
 
 <p align='center'>
 <img src="https://gitee.com/labuladong/pictures/raw/master/qrcode.jpg" width = "200" />
