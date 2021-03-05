@@ -26,8 +26,6 @@ Gitee Pages 地址：https://labuladong.gitee.io/algo
 
 **4、欢迎关注 [我的知乎](https://www.zhihu.com/people/labuladong)**。
 
-我一直在写优质文章，但是后续的文章只发布到公众号/网站/知乎，不能开放到 GitHub。因为本仓库太火了，很多人直接拿我的文章去开付费专栏，价格还不便宜，我这免费写给您看，何必掏冤枉钱呢？所以多多关注本作者，多多宣传，谁也不希望劣币驱逐良币不是么？
-
 其他的先不多说了，直接上干货吧，我们一起搞定 LeetCode，感受一下支配算法的乐趣。
 
 # 目录
@@ -116,9 +114,7 @@ Gitee Pages 地址：https://labuladong.gitee.io/algo
   * [加密算法的前身今世](技术/密码技术.md)
   * [Git/SQL/正则表达式的在线练习平台](技术/在线练习平台.md)
 
-# 感谢如下大佬参与翻译
-
-按照昵称字典序排名：
+感谢如下大佬参与翻译，按照昵称字典序排名：
 
 [ABCpril](https://github.com/ABCpril), 
 [andavid](https://github.com/andavid), 
