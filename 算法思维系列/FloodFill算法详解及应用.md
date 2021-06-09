@@ -228,10 +228,4 @@ int fill(int[][] image, int x, int y,
 
 **刷算法，学套路，认准 labuladong，公众号和 [在线电子书](https://labuladong.gitbook.io/algo) 持续更新最新文章**。
 
-**本小抄即将出版，微信扫码关注公众号，后台回复「小抄」限时免费获取，回复「进群」可进刷题群一起刷题，带你搞定 LeetCode**。
-
-<p align='center'>
-<img src="../pictures/qrcode.jpg" width=200 >
-</p>
-
 ======其他语言代码======
